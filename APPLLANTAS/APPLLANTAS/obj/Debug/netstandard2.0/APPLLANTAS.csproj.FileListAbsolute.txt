@@ -1,0 +1,15 @@
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\bin\Debug\netstandard2.0\APPLLANTAS.deps.json
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\bin\Debug\netstandard2.0\APPLLANTAS.dll
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\bin\Debug\netstandard2.0\APPLLANTAS.pdb
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\APPLLANTAS.csproj.AssemblyReference.cache
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\APPLLANTAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\APPLLANTAS.AssemblyInfoInputs.cache
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\APPLLANTAS.AssemblyInfo.cs
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\APPLLANTAS.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\APPLLANTAS.dll
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\refint\APPLLANTAS.dll
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\APPLLANTAS.pdb
+C:\Users\jesus\Desktop\Aplicacion IMC\APPLLANTAS\APPLLANTAS\APPLLANTAS\obj\Debug\netstandard2.0\ref\APPLLANTAS.dll
